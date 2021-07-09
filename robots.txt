@@ -1,3 +1,6 @@
 User-agent: *
 Disallow:
 Host: novchurch.github.io
+
+Sitemap: https://novchurch.github.io/plan/sitemap.xml
+Sitemap: https://novchurch.github.io/songs/sitemap.xml

@@ -1,5 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /songs/assets/katex/
 Host: novchurch.github.io
 
 Sitemap: https://novchurch.github.io/today/sitemap.xml
